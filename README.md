@@ -9,6 +9,9 @@ EmployeeListActivity is the first and the only activity in this Application.
 It lists all the employees and their designations.
 It also provides a search bar to search employees by their names.
 
+On pressing the call button, the application opens default calling app with the respective employee's contact number entered in the dialler.
+On pressing the message button, the application opens default messenger with the respective employee's contact number entered in the "To" field.
+
 This project uses MVVM architecture.
 When a requet is made to fetch data, first it is checked if the network is available.
 If available then only try fetching data using network calls and save the data in SQLite database.
