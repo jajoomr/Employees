@@ -12,7 +12,7 @@ If available then only try fetching data using network calls and save the data i
 
 When network is not available, it tries to fetch data from the database.
 
-Below is the high level Block **Diagram**:
+Below is the high level **Block Diagram**:
 
 ![HighLevelDesign-Block diagram](https://user-images.githubusercontent.com/86013600/184604219-17f59c9e-7cb6-4058-8aa1-73b212c83ea2.png)
 
