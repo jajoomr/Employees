@@ -1,4 +1,7 @@
 # Employees
+![HighLevelDesign-screenshots](https://user-images.githubusercontent.com/86013600/184606095-dd15fe66-6f66-4426-83a7-47b2534b51b3.png)
+
+
 This is a  demo project to get employee contact details using an API call.
 
 EmployeeListActivity is the first and the only activity in this Application.
